@@ -24,7 +24,7 @@ const Navbar = () => {
     <div className={`navbar ${scrolled ? "scrolled" : ""}`}>
       <div className="logo">
         <h1>
-          <Link to="/">Mehroz</Link>
+          <Link to="/">Ehtisham Ahmed</Link>
         </h1>
       </div>
       <div className="icon" onClick={() => setShowLinks(!showLinks)}>
